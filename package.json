@@ -1,8 +1,8 @@
 {
-  "name": "radon-games",
+  "name": "questhubgames",
   "description": "An open-source unblocked games website built with simplicity in mind.",
-  "version": "4.2.0",
-  "author": "Cohen Erickson <cohen@radon.games>",
+  "version": "1",
+  "author": "Sunset Studios <idk@questhubgames>",
   "type": "module",
   "license": "GNU v2",
   "scripts": {
